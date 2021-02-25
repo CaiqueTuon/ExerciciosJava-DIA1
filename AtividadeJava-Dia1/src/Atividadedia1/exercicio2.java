@@ -16,12 +16,11 @@ public class exercicio2 {
 				meses = (diastotal%365)/30;
 				dias = (diastotal%365)%30;
 				
-				System.out.print(idade);
-				System.out.println(": idade ");
-				System.out.print(meses);
-				System.out.println(": meses ");
-				System.out.print(dias);
-				System.out.println(": dias ");
+				
+				
+				System.out.print(idade+ ":idade " + meses+ " :meses " + dias+ " :dias ");
+				
+				
 				
 
 
